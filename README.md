@@ -10,6 +10,7 @@ Original Instructions
 Let -path be the folder with all the data 
 
 To run: 
+
 1. python kdd_2014_data_model1.py -path
 
 2. Run kdd_2014_model1.R (change folder <- path) 
