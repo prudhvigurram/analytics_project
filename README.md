@@ -26,3 +26,5 @@ To run:
 7. Final prediction is (0.5*model1+0.5*model2)*discount
 
 jenkins test 1..2..3
+
+test2
